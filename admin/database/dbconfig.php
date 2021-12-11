@@ -1,8 +1,8 @@
 <?php
 
-$server_name = "localhost";
-$db_username = "root";
-$db_password = "";
+$server_name = "sql109.epizy.com";
+$db_username = "epiz_30572166";
+$db_password = "aatbBvtEXK8d";
 $db_name = "adminpanel";
 
 $connection = mysqli_connect($server_name,$db_username,$db_password,$db_name);
